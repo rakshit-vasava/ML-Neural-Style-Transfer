@@ -22,7 +22,7 @@ This project is a part of my initiative to enhance my **product management skill
 ### 2. **Video Example**
 
 #### Styled Video Frame (Result):
-![Styled Video Frame](./assets/styled_video_frame.jpg)
+![Styled Video Frame](./assets/Pablo.gif)
 
 ---
 
@@ -62,5 +62,6 @@ This project builds on the key concepts from **Gatys' paper** (2015), which demo
 - Experiment with **layer combinations** for further style enhancement.
 
 ## 📚 Datasets
-- **Content and Style Image Dataset**: [Art by AI - Neural Style Transfer](https://www.kaggle.com/vbookshelf/art-by-ai-neural-style-transfer)
+- **Content and Style Image Dataset**:
+  - [Art by AI - Neural Style Transfer](https://www.kaggle.com/vbookshelf/art-by-ai-neural-style-transfer)
   - [Images for Style Transfer](https://www.kaggle.com/soumikrakshit/images-for-style-transfer)
